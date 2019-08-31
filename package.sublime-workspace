@@ -1,0 +1,895 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"le",
+				"leastFrequentItem"
+			],
+			[
+				"ne",
+				"newTodo"
+			],
+			[
+				"hand",
+				"handleSubmit"
+			],
+			[
+				"fil",
+				"filteredMonsters"
+			],
+			[
+				"sear",
+				"searchField"
+			],
+			[
+				"C",
+				"CardList"
+			],
+			[
+				"log",
+				"logFirstTwoBoxes"
+			],
+			[
+				"fin",
+				"findNemoforEach"
+			],
+			[
+				"pass",
+				"passwordConfirmation"
+			],
+			[
+				"handle",
+				"handleInputError"
+			],
+			[
+				"password",
+				"passwordConfirmation"
+			],
+			[
+				"isFor",
+				"isFormEmpty"
+			],
+			[
+				"set",
+				"setView"
+			],
+			[
+				"margin",
+				"shape-margin\tproperty"
+			],
+			[
+				"m",
+				"multiplyBy"
+			],
+			[
+				"mu",
+				"multiplyByFive"
+			],
+			[
+				"mult",
+				"multiplyByTwo"
+			],
+			[
+				"let",
+				"letAdminLogin"
+			],
+			[
+				"mul",
+				"multipleByTen"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"fi",
+				"firstName"
+			],
+			[
+				"remo",
+				"removeFriend"
+			],
+			[
+				"han",
+				"handleDecrement"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"image",
+				"imageRef"
+			],
+			[
+				"Image",
+				"ImageCard"
+			],
+			[
+				"gr",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"new",
+				"newNumbers"
+			],
+			[
+				"on",
+				"onInputClick"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"render",
+				"renderContent"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"icon",
+				"iconName"
+			],
+			[
+				"seas",
+				"seasonConfig"
+			],
+			[
+				"find",
+				"findNemo"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"App",
+				"ApprovalCard"
+			],
+			[
+				"o",
+				"onClick"
+			],
+			[
+				"ini",
+				"initialState"
+			],
+			[
+				"con",
+				"controllers"
+			],
+			[
+				"is",
+				"isValid"
+			],
+			[
+				"return",
+				"returning"
+			],
+			[
+				"si",
+				"signInPassword"
+			],
+			[
+				"signI",
+				"signInPassword"
+			],
+			[
+				"compo",
+				"Component"
+			],
+			[
+				"bottom",
+				"bottom_row"
+			],
+			[
+				"clar",
+				"clarifaiFace"
+			],
+			[
+				"par",
+				"particlesOptions"
+			],
+			[
+				"arra",
+				"arrayOfPromises"
+			],
+			[
+				"fet",
+				"fetchStarships"
+			],
+			[
+				"fetch",
+				"fetchUsers"
+			],
+			[
+				"vitali",
+				"vitalikTweets"
+			],
+			[
+				"elon",
+				"elonTweets"
+			],
+			[
+				"an",
+				"andreiTweets"
+			],
+			[
+				"filter",
+				"filteredRobots"
+			],
+			[
+				"bi",
+				"biggestNumberInArray2"
+			],
+			[
+				"biggest",
+				"biggestNumberInArray3"
+			],
+			[
+				"biggestNum",
+				"biggestNumberInArray"
+			],
+			[
+				"wizar",
+				"wizard2"
+			],
+			[
+				"wi",
+				"wizard1"
+			],
+			[
+				"redu",
+				"reduceArray"
+			],
+			[
+				"red",
+				"reduceArray"
+			],
+			[
+				"map",
+				"mapArray"
+			],
+			[
+				"back",
+				"backgroundGradient"
+			],
+			[
+				"clas",
+				"createClass"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"co",
+				"counterOne"
+			],
+			[
+				"user",
+				"userNamePrompt"
+			],
+			[
+				"grid-templat",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"row",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"grid-co",
+				"grid-column-end\tproperty"
+			],
+			[
+				"grid-t",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"col",
+				"col-lg-12"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"question",
+				"questionGame"
+			],
+			[
+				"pl",
+				"playerChoice"
+			],
+			[
+				"drive",
+				"driveToWork"
+			],
+			[
+				"re",
+				"reWriteStats"
+			],
+			[
+				"joa",
+				"joanOfArcInfoValues"
+			],
+			[
+				"result",
+				"resultAdder"
+			],
+			[
+				"he",
+				"headingStyle"
+			],
+			[
+				"en",
+				"entireClass"
+			],
+			[
+				"stud",
+				"studentsRow2"
+			],
+			[
+				"st",
+				"studentsRow2"
+			],
+			[
+				"stu",
+				"studentsRow1"
+			],
+			[
+				"zoo",
+				"zooAnimals"
+			],
+			[
+				"zo",
+				"zooAnimals"
+			],
+			[
+				"typ",
+				"typeSushi"
+			],
+			[
+				"lik",
+				"likeSushi"
+			],
+			[
+				"Firen",
+				"FriendCard"
+			],
+			[
+				"str",
+				"stripVowels"
+			],
+			[
+				"Prop",
+				"PropTypes"
+			],
+			[
+				"Play",
+				"PlaylistCounter"
+			],
+			[
+				"Friend",
+				"FriendCard"
+			],
+			[
+				"def",
+				"defaultStyle"
+			],
+			[
+				"conn",
+				"connectedUsers"
+			],
+			[
+				"Us",
+				"USER_CONNECTED"
+			],
+			[
+				"cre",
+				"createUser"
+			],
+			[
+				"create",
+				"creatMessage"
+			],
+			[
+				"V",
+				"VERIFY_USER"
+			],
+			[
+				"L",
+				"LOGOUT"
+			],
+			[
+				"Login",
+				"LoginForm"
+			],
+			[
+				"Co",
+				"ComponentTwo"
+			],
+			[
+				"Com",
+				"COMPONENTTWO"
+			],
+			[
+				"Hello",
+				"HelloMessage"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"addre",
+				"addressComponentsOutput"
+			],
+			[
+				"address",
+				"addressComponents"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"example",
+				"example-content"
+			],
+			[
+				"fl",
+				"flex-start"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"padd",
+				"padding-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Set Syntax: SCSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Term",
+				"Preferences: Terminal View: Keybindings"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package r",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PackageResourceViewer: Open Resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst\t",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 250.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/e-commerce-project/src/App.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/e-commerce-project/src/components/HomePage/HomePage.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/e-commerce-project/src/components/HomePage/HomePage.scss",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/e-commerce-project/src/components/HomePage/homepage.styles.scss",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/e-commerce-project/src/components/HomePage/HomePage.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/e-commerce-project/src/index.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/e-commerce-project/src/App.css",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/async-state/src/index.js",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/async-state/src/App.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/face-recognition-front-end/src/index.js",
+		"/Users/agottschalk/Documents/GitHub/Udemy/Andrei Neagoie/The Complete Web Developer in 2019/section_12_DOM_manipulation/lecture_123_DOM_selectors/index.html",
+		"/Users/agottschalk/Downloads/Brooks Bell/LaQuinta.html",
+		"/Users/agottschalk/Downloads/Brooks Bell/AmericInn.html",
+		"/Users/agottschalk/Downloads/Brooks Bell/code_test_solution/tony_g_code_solution_americinn_laquinta.js",
+		"/Users/agottschalk/Downloads/Brooks Bell/code_test_solution/tony_g_code_solution_americInn_laquinta.js",
+		"/Users/agottschalk/Downloads/Brooks Bell/code_test_solution/AmericInn.js",
+		"/Users/agottschalk/Downloads/Brooks Bell/AmericInn.js",
+		"/Users/agottschalk/Downloads/Brooks Bell/index2.html",
+		"/Users/agottschalk/Downloads/Brooks Bell/index.html",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/face-recognition-front-end/src/App.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/face-recognition-front-end/src/index.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/face-recognition-front-end/package.json",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/face-recognition-back-end-api/server.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/face-recognition-back-end-api/package.json",
+		"/Users/agottschalk/Documents/GitHub/acc-challenge/package.json",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/project_shift_challenge.js",
+		"/Users/agottschalk/Downloads/project_shift_challenge.js",
+		"/Users/agottschalk/Documents/GitHub/Udemy/Net Ninja/Build Data Visualizations with D3/section_2_svg_and_d3_basics/lecture_6_what_are_svgs/index.html",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/nfl-rosters/src/Containers/App.js",
+		"/Users/agottschalk/Documents/GitHub/t-gottschalk.github.io/assets/css/style.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-todo-list/src/components/Todos/Todos.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-todo-list/src/components/Todos/Todos.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-todo-list/src/components/AddTodo/AddTodo.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-todo-list/src/components/AddTodo/AddTodo.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-todo-list/src/App.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-todo-list/src/index.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-todo-list/src/App.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-todo-list/src/components/Header/Header.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-todo-list/src/components/Header/Header.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-todo-list/package.json",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-hangman-game/src/App.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-hangman-game/src/index.css",
+		"/Users/agottschalk/Documents/GitHub/t-gottschalk.github.iotest/Archived Example First Skeleton Page/assets/css/style.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/nfl-rosters/src/index.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/nfl-rosters/public/main.css",
+		"/Users/agottschalk/Dropbox/Udemy/Advanced-CSS/Natours/after-S05/css/style.css",
+		"/Users/agottschalk/Documents/GitHub/acc-challenge/src/index.css",
+		"/Users/agottschalk/Dropbox/Udemy/HTML5 and CSS3/Omnifood/resources/css/style.css",
+		"/Users/agottschalk/Dropbox/Udemy/Advanced-CSS/Natours/final-after-S06/css/style.css",
+		"/Users/agottschalk/Documents/GitHub/t-gottschalk.github.iotest/t-gottschalk.github.io Archives/Archived Webpage ver 06/assets/css/style.css",
+		"/Users/agottschalk/Documents/GitHub/t-gottschalk.github.iotest/GitHub Portfolio/CNAME",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/nfl-rosters/src/Components/Scroll.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/nfl-rosters/src/Containers/App.css",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/react-slack-clone/package.json",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/react-slack-clone/src/App.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-sms-back-end/public/index.html",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-sms-back-end/package.json",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-sms-back-end/serverOld.js",
+		"/Users/agottschalk/Documents/GitHub/week-4-game/index.html",
+		"/Users/agottschalk/Documents/GitHub/week-4-game/assets/javascript/game.js",
+		"/Users/agottschalk/Documents/GitHub/project-1/package.json",
+		"/Users/agottschalk/Documents/GitHub/project-1/assets/javascript/app.js",
+		"/Users/agottschalk/Documents/GitHub/project-1/models/Price.js",
+		"/Users/agottschalk/Documents/GitHub/project-1/server.js",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/text-me-please/README.md",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/mastery/test/gitfiti.sh",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/text-me-please/package.json",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/text-me-please/server.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-sms-back-end/server.js",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/text-me-please/public/index.html",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/text-me-please/server/config.js",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/text-me-please/public/js/app.js",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/text-me-please/public/css/style.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/text-me-please-test/README.md",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/text-me-please/server/server.js",
+		"/Users/agottschalk/Documents/GitHub/create-react-app/text-me-please/views/index.html",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/face-recognition-front-end/src/components/Register/Register.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/face-recognition-front-end/src/components/ImageLinkForm/ImageLinkForm.js",
+		"/Users/agottschalk/Documents/GitHub/acc-challenge/src/components/CardList/CardList.css",
+		"/Users/agottschalk/Documents/GitHub/acc-challenge/src/components/ScoreBoard/ScoreBoard.css",
+		"/Users/agottschalk/Documents/GitHub/acc-challenge/src/components/ScoreBoard/ScoreBoard.js",
+		"/Users/agottschalk/Documents/GitHub/acc-challenge/src/App.css",
+		"/Users/agottschalk/Documents/GitHub/acc-challenge/src/App.js",
+		"/Users/agottschalk/Documents/GitHub/Udemy/Andrei Neagoie/The Complete Web Developer in 2019/section_13_advanced_javascript/lecture_139_advanced_functions/lecture_139_advanced_functions.js",
+		"/Users/agottschalk/Documents/GitHub/Udemy/Andrei Neagoie/The Complete Web Developer in 2019/section_13_advanced_javascript/lecture_141_advanced_arrays/lecture_141_advanced_arrays.js",
+		"/Users/agottschalk/Documents/GitHub/Udemy/Andrei Neagoie/The Complete Web Developer in 2019/section_13_advanced_javascript/lecture_153_advanced_loops/lecture_153_advanced_loops.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-sms-back-end/project_shift_challenge.js",
+		"/Users/agottschalk/Documents/GitHub/Udemy/Andrei Neagoie/The Complete Web Developer in 2019/section_13_advanced_javascript/lecture_143_advanced_objects/lecture_143_advanced_objects.js",
+		"/Users/agottschalk/Downloads/kaleido_code_problem_solved/problem_1_solved/js/data.js",
+		"/Users/agottschalk/Downloads/kaleido_code_problem_solved/problem_1_solved/js/main.js",
+		"/Users/agottschalk/Documents/GitHub/Udemy/Andrei Neagoie/Master the Coding Interview Data Structures and Algorithms/section_3_big_o/lecture_35_o(n^2)/main.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/package.json",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/public/index.html",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/src/index.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/src/App.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/src/App.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/src/components/Header/Header.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/src/components/Header/Header.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/src/components/BackgroundCard/BackgroundCard.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/src/components/BackgroundCard/BackgroundCard.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/src/components/Instructions/Instructions.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/src/components/Instructions/Instructions.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/src/components/Form/Form.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/src/components/Form/Form.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-hangman-game/package.json",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/react-text-me-please/src/index.js",
+		"/Users/agottschalk/Documents/GitHub/acc-challenge/src/schools.json",
+		"/Users/agottschalk/Documents/GitHub/acc-challenge/src/components/Card/Card.js",
+		"/Users/agottschalk/Documents/GitHub/acc-challenge/src/components/Card/Card.css",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/face-recognition-front-end/src/components/Signin/Signin.js",
+		"/Users/agottschalk/Documents/GitHub/acc-challenge/public/index.html",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/text-me-please-test/package.json",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/text-me-please/public/js/app.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/text-me-please/server/server.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/text-me-please/listener.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/text-me-please/views/index.html",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/text-me-please/package.json",
+		"/Users/agottschalk/Documents/GitHub/UNC-Class-Repo/class-content/13-express/15-StarWarsFinalApp/server.js",
+		"/Users/agottschalk/Documents/GitHub/UNC-Class-Repo/class-content/13-express/15-StarWarsFinalApp/listener.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/text-me-please-test/public/index.html",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/text-me-please-test/server.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/text-me-please-test/public/js/app.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/other-courses/text-me-please-test/listener.js",
+		"/Users/agottschalk/Documents/GitHub/UNC-Class-Repo/class-content/13-express/07-POST-Method/Solved/index.html",
+		"/Users/agottschalk/Documents/GitHub/UNC-Class-Repo/class-content/13-express/07-POST-Method/Solved/server.js",
+		"/Users/agottschalk/Documents/GitHub/code-and-technology/andrei-neagoie/face-recognition-back-end-api/controllers/signin.js",
+		"/Users/agottschalk/Documents/GitHub/websockets-playlist/package.json",
+		"/Users/agottschalk/Documents/GitHub/websockets-playlist/public/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 29.0
+	},
+	"output.YAMLMacros":
+	{
+		"height": 29.0
+	},
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}
